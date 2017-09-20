@@ -1,5 +1,5 @@
 
-Jupman Manual
+Scientific Programming Lab 1
 ================================================
 
 (AA 2017/18)
