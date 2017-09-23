@@ -25,6 +25,5 @@ Scientific Programming Lab 1
     :maxdepth: 2
     :glob:
 
-    README.md
     introduction.ipynb
 
