@@ -9,4 +9,4 @@ Practicals will take place on Mondays from 14:00 to 16:00, on Thursdays from 16:
 
 ## Slides
 
-Slides of the practicals will be available [here]docs/ .
+Slides of the practicals will be available on top of each practical page.
