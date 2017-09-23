@@ -24,6 +24,7 @@ Scientific Programming Lab 1
 .. toctree::
     :maxdepth: 2
     :glob:
-
+    
+    README.md
     introduction.ipynb
 
