@@ -14,9 +14,9 @@ Scientific Programming Lab 1
     .. raw:: html
         
 
-        Download: <a href="http://readthedocs.org/projects/jupman/downloads/pdf/latest/" target="_blank">PDF</a>
-                  <a href="http://readthedocs.org/projects/jupman/downloads/epub/latest/" target="_blank"> EPUB </a>
-                  <a href="http://readthedocs.org/projects/jupman/downloads/htmlzip/latest/" target="_blank"> HTML </a>
+        Download: <a href="http://readthedocs.org/projects/sciprolab1/downloads/pdf/latest/" target="_blank">PDF</a>
+                  <a href="http://readthedocs.org/projects/sciprolab1/downloads/epub/latest/" target="_blank"> EPUB </a>
+                  <a href="http://readthedocs.org/projects/sciprolab1/downloads/htmlzip/latest/" target="_blank"> HTML </a>
         <br/>
         TODO: put link to software         
 
@@ -26,6 +26,5 @@ Scientific Programming Lab 1
     :glob:
 
     README.md
-    jupman-tests.ipynb
-    intro.ipynb
-    past-exams.ipynb
+    introduction.ipynb
+#    past-exams.ipynb
