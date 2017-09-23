@@ -27,4 +27,4 @@ Scientific Programming Lab 1
 
     README.md
     introduction.ipynb
-#    past-exams.ipynb
+
