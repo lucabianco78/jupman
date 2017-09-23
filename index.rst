@@ -2,11 +2,11 @@
 Scientific Programming Lab 1
 ================================================
 
-(AA 2017/18)
+(AY 2017/18)
 
 .. warning:: 
 
-    DRAFT IN PROGRESS 
+    Any announcement regarding the course will be put here 
 
 
 .. only:: html
