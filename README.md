@@ -1,7 +1,7 @@
 
 # General Info
 
-Tou can reach me [at this page](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/BIANCO-LUCA).
+The contacts to reach me can be found [at this page](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/BIANCO-LUCA).
 
 ## Timetable
 
