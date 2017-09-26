@@ -6,7 +6,7 @@ Scientific Programming Lab 1
 
 .. warning:: 
 
-    Any announcement regarding the course will be put here 
+    Any announcement regarding the Practicals will be put here 
 
 
 .. only:: html
