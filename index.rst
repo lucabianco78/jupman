@@ -18,7 +18,6 @@ Scientific Programming Lab 1
                   <a href="http://readthedocs.org/projects/sciprolab1/downloads/epub/latest/" target="_blank"> EPUB </a>
                   <a href="http://readthedocs.org/projects/sciprolab1/downloads/htmlzip/latest/" target="_blank"> HTML </a>
         <br/>
-        TODO: put link to software         
 
 
 .. toctree::
