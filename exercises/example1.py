@@ -6,4 +6,4 @@ b = 33 # variable b
 c = a / b # variable c holds the ratio
 
 # Let's print the result to screen.
-printt("a:", a, " b:", b, " a/b=", c)
+print("a:", a, " b:", b, " a/b=", c)
