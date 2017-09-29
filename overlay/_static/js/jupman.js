@@ -5,9 +5,14 @@
  */
 
  function toggleVisibility(what){
-    $( what ).toggle();
+    var e = document.getElementById(what);
+    if(e.style.display == 'block')
+      e.style.display = 'none';
+    else
+      e.style.display = 'block';
+  }
     
- }
+ 
 
 
 function showthis(url) {
