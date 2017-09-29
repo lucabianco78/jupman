@@ -4,6 +4,12 @@
  * 
  */
 
+ function toggleVisibility(what){
+    $( what ).toggle();
+    
+ }
+
+
 function showthis(url) {
     window.open(url, "pres", "toolbar=yes,scrollbars=yes,resizable=yes,top=10,left=400,width=500,height=500");
     return(false);
