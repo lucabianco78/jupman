@@ -26,5 +26,6 @@ Scientific Programming Lab 1
     
     README.md
     introduction.ipynb
-    
+    practical2.ipynb
+    practical3.ipynb    
 	
