@@ -28,4 +28,4 @@ Scientific Programming Lab 1
     introduction.ipynb
     practical2.ipynb        
     practical3.ipynb	
-    practical4.ipynb
+    
