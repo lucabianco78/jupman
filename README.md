@@ -14,4 +14,5 @@ Slides of the practicals will be available on the top part of each practical pag
 
 
 ## Acknowledgements
-I would like to thank Dr. Stefano Teso for allowing us to use some of his material of a previous course.
+I would like to thank Dr. David Leoni for all his help and for sharing Jupman with me.
+I would also like to thank Dr. Stefano Teso for allowing us to use some of his material of a previous course.
