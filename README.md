@@ -11,3 +11,7 @@ tentatively run from 28/09/2017 to 06/11/2017.
 ## Slides
 
 Slides of the practicals will be available on the top part of each practical page.
+
+
+## Acknowledgements
+I would like to thank Dr. Stefano Teso for allowing us to use some of his material of a previous course.
