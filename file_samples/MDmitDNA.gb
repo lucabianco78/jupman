@@ -1,0 +1,39 @@
+LOCUS       AB026718                 168 bp    DNA     linear   PLN 12-APR-2000
+DEFINITION  Malus domestica mitochondrial DNA, nad4L-orf25 intergenic sequence.
+ACCESSION   AB026718
+VERSION     AB026718.1
+KEYWORDS    .
+SOURCE      mitochondrion Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Maloideae; Maleae;
+            Malus.
+REFERENCE   1
+  AUTHORS   Kubo,T., Yamamoto,M.P. and Mikami,T.
+  TITLE     The nad4L-orf25 gene cluster is conserved and expressed in sugar
+            beet mitochondria
+  JOURNAL   Theor. Appl. Genet. 100, 214-220 (2000)
+REFERENCE   2  (bases 1 to 168)
+  AUTHORS   Kubo,T. and Mikami,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-1999) Tomohiko Kubo, Faculty of Agriculture,
+            Hokkaido University, Laboratory of Genetic Engineering; N-9 W-9,
+            Kita-ku, Sapporo, Hokkaido 060-8589, Japan
+            (E-mail:tomohiko@abs.agr.hokudai.ac.jp, Tel:81-11-706-2806,
+            Fax:81-11-716-0879)
+FEATURES             Location/Qualifiers
+     source          1..168
+                     /organism="Malus domestica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3750"
+                     /tissue_type="leaf"
+     misc_feature    1..168
+                     /note="nad4L-orf25 intergenic sequence"
+ORIGIN      
+        1 ggttaaacat gactcctaga gaattacaaa gaagttctct tctcctttcg ttctcttctt
+       61 tctttttttg gttggcaggg tcagggcctt tctcgctggg cgagcgcatc cgattcaaaa
+      121 gtccttcccg ttcagtttct gcaaggatag agataagctt tcataatg
+//
+
