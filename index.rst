@@ -34,3 +34,4 @@ Scientific Programming Lab 1
     practical7.ipynb
     practical8.ipynb
     practical9.ipynb
+    practical10.ipynb
