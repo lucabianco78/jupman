@@ -1,0 +1,714 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTN 2.7.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: ZK10A4WJ014
+
+
+Database: Nucleotide collection (nt)
+           45,120,998 sequences; 160,964,883,637 total letters
+Query= AF542069.1 Homo sapiens serum albumin (HSA) mRNA, complete cds
+
+Length=2176
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+XM_008370612.2  PREDICTED: Malus x domestica uncharacterized L...  39.2    0.41 
+XM_008370611.2  PREDICTED: Malus x domestica uncharacterized L...  39.2    0.41 
+XM_017327054.1  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XM_008354166.2  PREDICTED: Malus x domestica mediator of RNA p...  37.4    1.4  
+XM_008354165.2  PREDICTED: Malus x domestica mediator of RNA p...  37.4    1.4  
+XM_017324812.1  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XM_008377683.2  PREDICTED: Malus x domestica COP9 signalosome ...  37.4    1.4  
+XM_008361129.2  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XM_008361123.2  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XM_017322705.1  PREDICTED: Malus x domestica TMV resistance pr...  37.4    1.4  
+XM_017322701.1  PREDICTED: Malus x domestica TMV resistance pr...  37.4    1.4  
+XM_008387069.2  PREDICTED: Malus x domestica TMV resistance pr...  37.4    1.4  
+XM_008388325.2  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XM_017335605.1  PREDICTED: Malus x domestica uncharacterized L...  37.4    1.4  
+XR_524622.1  PREDICTED: Malus x domestica uncharacterized LOC1...  37.4    1.4  
+NM_001293826.1  Malus domestica beta-galactosidase (BGAL101), ...  37.4    1.4  
+XM_008367985.2  PREDICTED: Malus x domestica serine/threonine-...  35.6    5.0  
+XM_008366777.2  PREDICTED: Malus x domestica disease resistanc...  35.6    5.0  
+XM_008366776.2  PREDICTED: Malus x domestica disease resistanc...  35.6    5.0  
+XM_008366775.2  PREDICTED: Malus x domestica disease resistanc...  35.6    5.0  
+XR_527940.2  PREDICTED: Malus x domestica uncharacterized LOC1...  35.6    5.0  
+XM_008362670.2  PREDICTED: Malus x domestica translation initi...  35.6    5.0  
+XM_008361670.2  PREDICTED: Malus x domestica GRF1-interacting ...  35.6    5.0  
+XR_527607.2  PREDICTED: Malus x domestica uncharacterized LOC1...  35.6    5.0  
+XR_001788354.1  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XR_001787862.1  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_008354723.2  PREDICTED: Malus x domestica probable disease ...  35.6    5.0  
+XR_525776.2  PREDICTED: Malus x domestica uncharacterized LOC1...  35.6    5.0  
+XM_008350200.2  PREDICTED: Malus x domestica cytochrome P450 7...  35.6    5.0  
+XM_008349476.2  PREDICTED: Malus x domestica zinc finger A20 a...  35.6    5.0  
+XM_008346291.2  PREDICTED: Malus x domestica rust resistance k...  35.6    5.0  
+XM_008380033.2  PREDICTED: Malus x domestica zinc finger A20 a...  35.6    5.0  
+XM_008380035.2  PREDICTED: Malus x domestica zinc finger A20 a...  35.6    5.0  
+XM_008375236.2  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_008376148.2  PREDICTED: Malus x domestica cytochrome P450 7...  35.6    5.0  
+XM_008355798.2  PREDICTED: Malus x domestica receptor-like pro...  35.6    5.0  
+XM_008355790.2  PREDICTED: Malus x domestica receptor-like pro...  35.6    5.0  
+XM_008355783.2  PREDICTED: Malus x domestica receptor-like pro...  35.6    5.0  
+XM_008347904.2  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_008341438.2  PREDICTED: Malus x domestica universal stress ...  35.6    5.0  
+XM_008390879.2  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_017337077.1  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_008389409.2  PREDICTED: Malus x domestica interactor of con...  35.6    5.0  
+XM_008358496.1  PREDICTED: Malus x domestica uncharacterized L...  35.6    5.0  
+XM_008394219.1  PREDICTED: Malus x domestica myosin heavy chai...  35.6    5.0  
+DQ115404.1  Malus x domestica starch branching enzyme I (SbeI)...  35.6    5.0  
+
+ALIGNMENTS
+>XM_008370612.2 PREDICTED: Malus x domestica uncharacterized LOC103432422 (LOC103432422), 
+transcript variant X2, mRNA
+Length=5348
+
+ Score = 39.2 bits (42),  Expect = 0.41
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  47    CCTTTATTTCCCTTCTTTTTCTCTTT  72
+             |||||||||||||||| ||||| |||
+Sbjct  2185  CCTTTATTTCCCTTCTGTTTCTGTTT  2160
+
+
+>XM_008370611.2 PREDICTED: Malus x domestica uncharacterized LOC103432422 (LOC103432422), 
+transcript variant X1, mRNA
+Length=5344
+
+ Score = 39.2 bits (42),  Expect = 0.41
+ Identities = 24/26 (92%), Gaps = 0/26 (0%)
+ Strand=Plus/Minus
+
+Query  47    CCTTTATTTCCCTTCTTTTTCTCTTT  72
+             |||||||||||||||| ||||| |||
+Sbjct  2181  CCTTTATTTCCCTTCTGTTTCTGTTT  2156
+
+
+>XM_017327054.1 PREDICTED: Malus x domestica uncharacterized LOC103416286 (LOC103416286), 
+mRNA
+Length=947
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 31/37 (84%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  214  GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAAT  250
+            || ||||||||||||||| ||| |||| | | |||||
+Sbjct  833  GATGATCATGTAAAATTA-TGATTGAACTGAATGAAT  868
+
+
+>XM_008354166.2 PREDICTED: Malus x domestica mediator of RNA polymerase II transcription 
+subunit 20a-like (LOC103415888), transcript variant 
+X2, mRNA
+Length=1140
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  635  GCCTGTTGCCAAAGCTCGATGAACT  659
+            ||||||||||||| ||| |||||||
+Sbjct  697  GCCTGTTGCCAAATCTCCATGAACT  673
+
+
+>XM_008354165.2 PREDICTED: Malus x domestica mediator of RNA polymerase II transcription 
+subunit 20a-like (LOC103415888), transcript variant 
+X1, mRNA
+Length=721
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  635  GCCTGTTGCCAAAGCTCGATGAACT  659
+            ||||||||||||| ||| |||||||
+Sbjct  366  GCCTGTTGCCAAATCTCCATGAACT  342
+
+
+>XM_017324812.1 PREDICTED: Malus x domestica uncharacterized LOC103407794 (LOC103407794), 
+mRNA
+Length=1181
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  140  AAGATTTGGGAGAAGAAAATTTCAAAGC  167
+            |||||||||||| |||| ||||||| ||
+Sbjct  265  AAGATTTGGGAGTAGAACATTTCAATGC  292
+
+
+>XM_008377683.2 PREDICTED: Malus x domestica COP9 signalosome complex subunit 
+1-like (LOC103439133), mRNA
+Length=1734
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 38/49 (78%), Gaps = 2/49 (4%)
+ Strand=Plus/Minus
+
+Query  1862  AACATCACATTTAAAAGCATCTC--AGCCTACCATGAGAATAAGAGAAA  1908
+             ||||| || |||||||||||| |  ||   |||||||| |||| | |||
+Sbjct  585   AACATAACTTTTAAAAGCATCCCCAAGTTGACCATGAGCATAATAAAAA  537
+
+
+>XM_008361129.2 PREDICTED: Malus x domestica uncharacterized LOC103423052 (LOC103423052), 
+transcript variant X2, mRNA
+Length=1801
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  140  AAGATTTGGGAGAAGAAAATTTCAAAGC  167
+            |||||||||||| |||| ||||||| ||
+Sbjct  897  AAGATTTGGGAGTAGAACATTTCAATGC  924
+
+
+>XM_008361123.2 PREDICTED: Malus x domestica uncharacterized LOC103423052 (LOC103423052), 
+transcript variant X1, mRNA
+Length=1813
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  140  AAGATTTGGGAGAAGAAAATTTCAAAGC  167
+            |||||||||||| |||| ||||||| ||
+Sbjct  897  AAGATTTGGGAGTAGAACATTTCAATGC  924
+
+
+>XM_017322705.1 PREDICTED: Malus x domestica TMV resistance protein N-like (LOC103447863), 
+transcript variant X4, mRNA
+Length=2544
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 31/37 (84%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  214   GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAAT  250
+             || ||||||||||||||| ||| |||| | | |||||
+Sbjct  2472  GATGATCATGTAAAATTA-TGATTGAACTGAATGAAT  2507
+
+
+>XM_017322701.1 PREDICTED: Malus x domestica TMV resistance protein N-like (LOC103447863), 
+transcript variant X2, mRNA
+Length=2658
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 31/37 (84%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  214   GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAAT  250
+             || ||||||||||||||| ||| |||| | | |||||
+Sbjct  2586  GATGATCATGTAAAATTA-TGATTGAACTGAATGAAT  2621
+
+
+>XM_008387069.2 PREDICTED: Malus x domestica TMV resistance protein N-like (LOC103447863), 
+transcript variant X1, mRNA
+Length=1919
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 31/37 (84%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  214   GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAAT  250
+             || ||||||||||||||| ||| |||| | | |||||
+Sbjct  1847  GATGATCATGTAAAATTA-TGATTGAACTGAATGAAT  1882
+
+
+>XM_008388325.2 PREDICTED: Malus x domestica uncharacterized LOC103449050 (LOC103449050), 
+partial mRNA
+Length=4062
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  48    CTTTATTTCCCTTCTTTTTCTCTTT  72
+             ||||||||||||||| ||||| |||
+Sbjct  1642  CTTTATTTCCCTTCTGTTTCTGTTT  1618
+
+
+>XM_017335605.1 PREDICTED: Malus x domestica uncharacterized LOC103447963 (LOC103447963), 
+partial mRNA
+Length=1222
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  140  AAGATTTGGGAGAAGAAAATTTCAA  164
+            |||||||||||| |||| |||||||
+Sbjct  278  AAGATTTGGGAGTAGAACATTTCAA  302
+
+
+>XR_524622.1 PREDICTED: Malus x domestica uncharacterized LOC103406719 (LOC103406719), 
+ncRNA
+Length=929
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 31/37 (84%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  214  GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAAT  250
+            || ||||||||||||||| ||| |||| | | |||||
+Sbjct  856  GATGATCATGTAAAATTA-TGATTGAACTGAATGAAT  891
+
+
+>NM_001293826.1 Malus domestica beta-galactosidase (BGAL101), mRNA
+ KC107807.1 Malus x domestica cultivar Royal Gala beta-galactosidase 101 
+(BGAL101) mRNA, complete cds
+Length=2505
+
+ Score = 37.4 bits (40),  Expect = 1.4
+ Identities = 26/30 (87%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  631  GCCTGCCTGTTGCCAAAGCTCGATGAACTT  660
+            |||||||||||||   |||| |||||||||
+Sbjct  350  GCCTGCCTGTTGCACCAGCTTGATGAACTT  321
+
+
+>XM_008367985.2 PREDICTED: Malus x domestica serine/threonine-protein kinase 
+BRI1-like 1 (LOC103429859), mRNA
+Length=4674
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 26/29 (90%), Gaps = 1/29 (3%)
+ Strand=Plus/Minus
+
+Query  1931  TTCATCTGTTTTT-CTTTTTCGTTGGTGT  1958
+             ||| ||||||||| ||||||| |||||||
+Sbjct  256   TTCTTCTGTTTTTTCTTTTTCTTTGGTGT  228
+
+
+>XM_008366777.2 PREDICTED: Malus x domestica disease resistance protein RGA2-like 
+(LOC103428651), transcript variant X3, mRNA
+Length=3818
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/26 (92%), Gaps = 1/26 (4%)
+ Strand=Plus/Minus
+
+Query  175  TTGA-TTGCCTTTGCTCAGTATCTTC  199
+            |||| |||||||||||||| ||||||
+Sbjct  540  TTGACTTGCCTTTGCTCAGCATCTTC  515
+
+
+>XM_008366776.2 PREDICTED: Malus x domestica disease resistance protein RGA2-like 
+(LOC103428651), transcript variant X2, mRNA
+Length=3902
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/26 (92%), Gaps = 1/26 (4%)
+ Strand=Plus/Minus
+
+Query  175  TTGA-TTGCCTTTGCTCAGTATCTTC  199
+            |||| |||||||||||||| ||||||
+Sbjct  540  TTGACTTGCCTTTGCTCAGCATCTTC  515
+
+
+>XM_008366775.2 PREDICTED: Malus x domestica disease resistance protein RGA2-like 
+(LOC103428651), transcript variant X1, mRNA
+Length=4053
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/26 (92%), Gaps = 1/26 (4%)
+ Strand=Plus/Minus
+
+Query  175  TTGA-TTGCCTTTGCTCAGTATCTTC  199
+            |||| |||||||||||||| ||||||
+Sbjct  540  TTGACTTGCCTTTGCTCAGCATCTTC  515
+
+
+>XR_527940.2 PREDICTED: Malus x domestica uncharacterized LOC103425481 (LOC103425481), 
+ncRNA
+Length=555
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  1722  AACAAAAGAGCAACTGAAA  1740
+             |||||||||||||||||||
+Sbjct  535   AACAAAAGAGCAACTGAAA  517
+
+
+>XM_008362670.2 PREDICTED: Malus x domestica translation initiation factor eIF-2B 
+subunit delta-like (LOC103424579), mRNA
+Length=2458
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 28/34 (82%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  1816  GAGGGTAAAAAACTTGTTGCTGCAAGTCGAGCTG  1849
+             ||||||||||||| || ||||| || | ||| ||
+Sbjct  788   GAGGGTAAAAAACCTGCTGCTGTAACTGGAGGTG  821
+
+
+>XM_008361670.2 PREDICTED: Malus x domestica GRF1-interacting factor 1-like (LOC103423582), 
+mRNA
+Length=1181
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 27/31 (87%), Gaps = 1/31 (3%)
+ Strand=Plus/Plus
+
+Query  1807  TTTGCCGAGGA-GGGTAAAAAACTTGTTGCT  1836
+             || |||||||| ||| |||||||||| ||||
+Sbjct  956   TTAGCCGAGGAGGGGAAAAAAACTTGCTGCT  986
+
+
+>XR_527607.2 PREDICTED: Malus x domestica uncharacterized LOC103423464 (LOC103423464), 
+ncRNA
+Length=526
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 27/31 (87%), Gaps = 1/31 (3%)
+ Strand=Plus/Minus
+
+Query  1895  GAGAATAAGAGAAAGAAAATGAAGATCAAAA  1925
+             |||||||||||||||  |||||| | |||||
+Sbjct  356   GAGAATAAGAGAAAGCCAATGAA-AACAAAA  327
+
+
+>XR_001788354.1 PREDICTED: Malus x domestica uncharacterized LOC108171834 (LOC108171834), 
+ncRNA
+Length=262
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  278  CAGCTGAAAATTGTGACAAATCAC  301
+            ||||||||| || |||||||||||
+Sbjct  110  CAGCTGAAAGTTCTGACAAATCAC  133
+
+
+>XR_001787862.1 PREDICTED: Malus x domestica uncharacterized LOC108171391 (LOC108171391), 
+ncRNA
+Length=1462
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  1909  GAAAATGAAGATCAAAAGCTTATT  1932
+             ||||||||||||||| ||||| ||
+Sbjct  248   GAAAATGAAGATCAATAGCTTTTT  271
+
+
+>XM_008354723.2 PREDICTED: Malus x domestica probable disease resistance RPP8-like 
+protein 2 (LOC103416481), transcript variant X1, mRNA
+Length=3625
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/27 (89%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  1363  ACTCCAACTCTTGTAGAGGTCTCAAGA  1389
+             |||||||||||| || |||| ||||||
+Sbjct  3015  ACTCCAACTCTTATACAGGTATCAAGA  3041
+
+
+>XR_525776.2 PREDICTED: Malus x domestica uncharacterized LOC103412757 (LOC103412757), 
+ncRNA
+Length=1126
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 26/29 (90%), Gaps = 1/29 (3%)
+ Strand=Plus/Minus
+
+Query  1931  TTCATCTGTTTTT-CTTTTTCGTTGGTGT  1958
+             ||| ||||||||| ||||||| |||||||
+Sbjct  380   TTCTTCTGTTTTTTCTTTTTCTTTGGTGT  352
+
+
+>XM_008350200.2 PREDICTED: Malus x domestica cytochrome P450 71A26-like (LOC103411572), 
+mRNA
+Length=2178
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  143  ATTTGGGAGAAGAAAATTT  161
+            |||||||||||||||||||
+Sbjct  518  ATTTGGGAGAAGAAAATTT  500
+
+
+>XM_008349476.2 PREDICTED: Malus x domestica zinc finger A20 and AN1 domain-containing 
+stress-associated protein 3-like (LOC103410812), mRNA
+Length=912
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  9    GTCAACCCCACGCGCCTTTGGCAC  32
+            |||||||||||||||| | |||||
+Sbjct  597  GTCAACCCCACGCGCCGTCGGCAC  574
+
+
+>XM_008346291.2 PREDICTED: Malus x domestica rust resistance kinase Lr10-like 
+(LOC103407355), mRNA
+Length=1698
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 31/37 (84%), Gaps = 4/37 (11%)
+ Strand=Plus/Plus
+
+Query  1901  AAGAGAAAGAAAATGAAGATCAAAAGCTTATTCATCT  1937
+             |||||||||||||||  |||   ||||||||| ||||
+Sbjct  128   AAGAGAAAGAAAATGCTGAT---AAGCTTATT-ATCT  160
+
+
+>XM_008380033.2 PREDICTED: Malus x domestica zinc finger A20 and AN1 domain-containing 
+stress-associated protein 3-like (LOC103441356), mRNA
+Length=783
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  9    GTCAACCCCACGCGCCTTTGGCAC  32
+            |||||||||||||||| | |||||
+Sbjct  385  GTCAACCCCACGCGCCGTCGGCAC  362
+
+
+>XM_008380035.2 PREDICTED: Malus x domestica zinc finger A20 and AN1 domain-containing 
+stress-associated protein 3-like (LOC103441357), mRNA
+Length=968
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  9    GTCAACCCCACGCGCCTTTGGCAC  32
+            |||||||||||||||| | |||||
+Sbjct  580  GTCAACCCCACGCGCCGTCGGCAC  557
+
+
+>XM_008375236.2 PREDICTED: Malus x domestica uncharacterized LOC103436780 (LOC103436780), 
+mRNA
+Length=1445
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/27 (89%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  1928  TTATTCATCTGTTTTTCTTTTTCGTTG  1954
+             ||||| || |||||||||||||| |||
+Sbjct  87    TTATTGATTTGTTTTTCTTTTTCTTTG  61
+
+
+>XM_008376148.2 PREDICTED: Malus x domestica cytochrome P450 71A26-like (LOC103437660), 
+mRNA
+Length=2184
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  143  ATTTGGGAGAAGAAAATTT  161
+            |||||||||||||||||||
+Sbjct  524  ATTTGGGAGAAGAAAATTT  506
+
+
+>XM_008355798.2 PREDICTED: Malus x domestica receptor-like protein kinase BRI1-like 
+3 (LOC103417609), transcript variant X3, mRNA
+Length=4621
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 26/29 (90%), Gaps = 1/29 (3%)
+ Strand=Plus/Minus
+
+Query  1931  TTCATCTGTTTTT-CTTTTTCGTTGGTGT  1958
+             ||| ||||||||| ||||||| |||||||
+Sbjct  348   TTCTTCTGTTTTTTCTTTTTCTTTGGTGT  320
+
+
+>XM_008355790.2 PREDICTED: Malus x domestica receptor-like protein kinase BRI1-like 
+3 (LOC103417609), transcript variant X2, mRNA
+Length=4633
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 26/29 (90%), Gaps = 1/29 (3%)
+ Strand=Plus/Minus
+
+Query  1931  TTCATCTGTTTTT-CTTTTTCGTTGGTGT  1958
+             ||| ||||||||| ||||||| |||||||
+Sbjct  348   TTCTTCTGTTTTTTCTTTTTCTTTGGTGT  320
+
+
+>XM_008355783.2 PREDICTED: Malus x domestica receptor-like protein kinase BRI1-like 
+3 (LOC103417609), transcript variant X1, mRNA
+Length=4534
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 26/29 (90%), Gaps = 1/29 (3%)
+ Strand=Plus/Minus
+
+Query  1931  TTCATCTGTTTTT-CTTTTTCGTTGGTGT  1958
+             ||| ||||||||| ||||||| |||||||
+Sbjct  348   TTCTTCTGTTTTTTCTTTTTCTTTGGTGT  320
+
+
+>XM_008347904.2 PREDICTED: Malus x domestica uncharacterized LOC103409082 (LOC103409082), 
+mRNA
+Length=968
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/27 (89%), Gaps = 0/27 (0%)
+ Strand=Plus/Minus
+
+Query  228  ATTAGTGAATGAAGTAACTGAATTTGC  254
+            ||| |||| ||||| ||||||||||||
+Sbjct  236  ATTGGTGACTGAAGCAACTGAATTTGC  210
+
+
+>XM_008341438.2 PREDICTED: Malus x domestica universal stress protein YxiE (LOC103402687), 
+mRNA
+Length=771
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 25/28 (89%), Gaps = 2/28 (7%)
+ Strand=Plus/Plus
+
+Query  937  TGCTGTGAAAAACCTCTGT--TGGAAAA  962
+            |||||||||||| ||||||  |||||||
+Sbjct  686  TGCTGTGAAAAAACTCTGTAGTGGAAAA  713
+
+
+>XM_008390879.2 PREDICTED: Malus x domestica uncharacterized LOC103451479 (LOC103451479), 
+transcript variant X2, mRNA
+Length=1622
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  1927  CTTATTCATCTGTTTTTCTTTTTC  1950
+             ||| |||||||| |||||||||||
+Sbjct  588   CTTGTTCATCTGATTTTCTTTTTC  565
+
+
+>XM_017337077.1 PREDICTED: Malus x domestica uncharacterized LOC103451479 (LOC103451479), 
+transcript variant X1, mRNA
+Length=1627
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  1927  CTTATTCATCTGTTTTTCTTTTTC  1950
+             ||| |||||||| |||||||||||
+Sbjct  593   CTTGTTCATCTGATTTTCTTTTTC  570
+
+
+>XM_008389409.2 PREDICTED: Malus x domestica interactor of constitutive active 
+ROPs 2, chloroplastic-like (LOC103450088), transcript variant 
+X1, mRNA
+Length=2386
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 24/28 (86%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  2017  TGTGCTTCAATTAATAAAAAATGGAAAG  2044
+             ||| ||| |||||| | |||||||||||
+Sbjct  2349  TGTSCTTTAATTAACATAAAATGGAAAG  2322
+
+
+>XM_008358496.1 PREDICTED: Malus x domestica uncharacterized LOC103420430 (LOC103420430), 
+mRNA
+Length=1077
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  1123  GATTACTCTGTCGTGCTGCTGCTG  1146
+             ||||| |||||| |||||||||||
+Sbjct  414   GATTAATCTGTCCTGCTGCTGCTG  391
+
+
+>XM_008394219.1 PREDICTED: Malus x domestica myosin heavy chain, clone 203 (LOC103454626), 
+mRNA
+Length=2850
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  1900  TAAGAGAAAGAAAATGAAGATC  1921
+             || |||||||||||||||||||
+Sbjct  2099  TACGAGAAAGAAAATGAAGATC  2120
+
+
+>DQ115404.1 Malus x domestica starch branching enzyme I (SbeI) gene, complete 
+cds
+Length=8078
+
+ Score = 35.6 bits (38),  Expect = 5.0
+ Identities = 22/24 (92%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  1930  ATTCATCTGTTTTTCTTTTTCGTT  1953
+             |||| ||| |||||||||||||||
+Sbjct  5114  ATTCTTCTTTTTTTCTTTTTCGTT  5137
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Oct 27, 2017  8:42 AM
+  Number of letters in database: 119,126,867
+  Number of sequences in database:  74,945
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 74945
+Number of Hits to DB: 2865
+Number of extensions: 4
+Number of successful extensions: 4
+Number of sequences better than 10: 0
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 4
+Number of HSP's successfully gapped: 0
+Length of query: 2176
+Length of database: 119126867
+Length adjustment: 30
+Effective length of query: 2146
+Effective length of database: 116878517
+Effective search space: 250821297482
+Effective search space used: 250821297482
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 37 (34.6 bits)
+
+
+
+
