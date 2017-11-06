@@ -36,3 +36,4 @@ Scientific Programming Lab 1
     practical9.ipynb
     practical10.ipynb
     practical11.ipynb
+    Midtermsimulation.ipynb
